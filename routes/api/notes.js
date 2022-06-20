@@ -16,7 +16,7 @@ express.post('/notes', (req, res) => {
 });
 
 // DELETE Route
-express.delete('./notes/:id', (req, res) => {
+express.delete('/notes/:id', (req, res) => {
     deleteNote(notes, req.params.id)
     res.json(notes)
 });
