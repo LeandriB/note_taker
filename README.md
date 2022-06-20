@@ -48,7 +48,11 @@ Run application by running the following command in your terminal
 
 ## Usage
 
-![Preview](./images/preview.png)
+![Preview](./public/assets/images/preview.png)
+
+![Preview](./public/assets/images/preview1.png)
+
+Live [preview](https://shielded-dawn-41143.herokuapp.com/) deployed on heroku.
 
 ## Contributing
 
