@@ -1,6 +1,29 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Dogs",
+      "text": "the best\n",
+      "id": "0"
+    },
+    {
+      "title": "Dogs2",
+      "text": "I love them!",
+      "id": "1"
+    },
+    {
+      "title": "Bassets",
+      "text": "The best dogs in the worlds",
+      "id": "2"
+    },
+    {
+      "title": "aj",
+      "text": "asjlf",
+      "id": "3"
+    },
+    {
+      "title": "dkgf`",
+      "text": "ldsf",
+      "id": "4"
     }
-]
+  ]
+}
